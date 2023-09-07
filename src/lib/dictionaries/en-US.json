@@ -1,0 +1,21 @@
+{
+    "header": {
+        "navigation": {
+            "home": "Home",
+            "about": "About",
+            "ideas": "Ideas",
+            "popular": "Popoular",
+            "create": "Create",
+            "reviews": "reviews"
+        },
+        "buttons": {
+            "singin": "Sign In",
+            "singup": "Sign Up"
+        },
+        "theme": {
+            "light": "Light",
+            "dark": "Dark",
+            "system": "System"
+        }
+    }
+}

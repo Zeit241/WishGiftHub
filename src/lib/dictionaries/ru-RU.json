@@ -1,0 +1,21 @@
+{
+    "header": {
+        "navigation": {
+            "home": "Главная",
+            "about": "О нас",
+            "ideas": "Идеи",
+            "popular": "Популярное",
+            "create": "Создать",
+            "reviews": "Отзывы"
+        },
+        "buttons": {
+            "singin": "Вход",
+            "singup": "Регистрация"
+        },
+        "theme": {
+            "light": "Светлая",
+            "dark": "Темная",
+            "system": "Системная"
+        }
+    }
+}
